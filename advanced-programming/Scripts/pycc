@@ -1,0 +1,3 @@
+#!c:\users\um6p\desktop\m111-advanced-python-and-database-management\advanced-programming\scripts\python.exe
+from numba.pycc import main
+main()
